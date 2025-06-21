@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36121.58 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ejemplo 2. Sin vector", "Ejemplo 2. Sin vector\Ejemplo 2. Sin vector.csproj", "{91809489-B454-4B80-8145-5534E06C5B43}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{91809489-B454-4B80-8145-5534E06C5B43}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{91809489-B454-4B80-8145-5534E06C5B43}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{91809489-B454-4B80-8145-5534E06C5B43}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{91809489-B454-4B80-8145-5534E06C5B43}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0570F27C-34DE-4EDF-B42E-510ECDF6E2BA}
+	EndGlobalSection
+EndGlobal

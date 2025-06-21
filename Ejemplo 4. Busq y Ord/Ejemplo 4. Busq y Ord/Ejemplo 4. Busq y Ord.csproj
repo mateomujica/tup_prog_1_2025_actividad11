@@ -1,0 +1,16 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net8.0-windows</TargetFramework>
+    <RootNamespace>Ejemplo_4._Busq_y_Ord</RootNamespace>
+    <Nullable>enable</Nullable>
+    <UseWindowsForms>true</UseWindowsForms>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Include="C:\Users\mateo\OneDrive\Escritorio\TUP - UTN\Programacion\C#\tup_prog_1_2025_actividad11\Ejemplo 5 Mayores al promedio M&amp;m\Ejemplo 5.cs" Link="Ejemplo 5.cs" />
+  </ItemGroup>
+
+</Project>
